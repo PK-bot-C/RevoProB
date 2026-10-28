@@ -1,0 +1,13 @@
+{
+  "name": "Revo Pro",
+  "short_name": "Revo Pro",
+  "description": "Lumbar support controller",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050607",
+  "theme_color": "#050607",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
